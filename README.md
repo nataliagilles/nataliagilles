@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Natália Rodrigues Gilles!
+# 👋 Olá, eu sou a Natália!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Focada em **Java**, **Programação Orientada a Objetos (POO)** e **Git**  
