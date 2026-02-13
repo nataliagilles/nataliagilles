@@ -39,7 +39,7 @@ Aqui estão alguns dos meus projetos que mostram minha evolução:
 Estou aberta a conexões, dicas de estudo e oportunidades. Você pode me encontrar aqui:
 
 - LinkedIn: https://www.linkedin.com/in/nataliagilles
-- E-mail: nataliarodriguesacessoriasl@gmail.com
+- E-mail: nataliarodriguesacessorias@gmail.com
 
 ---
 
