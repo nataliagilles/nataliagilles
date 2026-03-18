@@ -1,7 +1,7 @@
 # Olá, eu sou a Natália!
 
 - Estudante de **Análise e Desenvolvimento de Sistemas**  
-- Focada em **Java**, **Programação Orientada a Objetos (POO)** e **Git**  
+- Focada em **Java**, **Programação Orientada a Objetos (POO)**, **Banco de Dados** e **Git**  
 
   Em construção do meu portfólio de projetos para ingressar na área de desenvolvimento
 
