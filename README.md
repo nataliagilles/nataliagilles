@@ -1,19 +1,20 @@
-# 👋 Olá, eu sou a Natália!
+# Olá, eu sou a Natália!
 
 - Estudante de **Análise e Desenvolvimento de Sistemas**  
 - Focada em **Java**, **Programação Orientada a Objetos (POO)** e **Git**  
-🚀 Em construção do meu portfólio de projetos para ingressar na área de desenvolvimento
+
+  Em construção do meu portfólio de projetos para ingressar na área de desenvolvimento
 
 ---
 
-## 🌱 Sobre mim
+## Sobre mim
 
   Atualmente, estou dedicando meus estudos para dominar os fundamentos do desenvolvimento back-end com Java, lógica de programação, banco de dados e versionamento de código.
   Acredito que a melhor forma de aprender é codando, por isso estou constantemente criando pequenos projetos e exercícios para consolidar meus conhecimentos.
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
