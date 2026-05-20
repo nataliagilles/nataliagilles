@@ -28,8 +28,8 @@
 
 Aqui estão alguns dos meus projetos que mostram minha evolução:
 
-- [**estudos-java**](https://github.com/nataliagilles/estudos-java) — Repositório com exercícios, anotações e exemplos práticos de Java e POO. É onde registro minha jornada de aprendizado.
-- [**Contatos Manger**](https://github.com/nataliagilles/ContactManagerSpecialties)- Sistema de gerenciamento de contatos desenvolvido em Java, com funcionalidades de cadastro, busca, listagem ordenada e persistência em arquivo.
+- [**Contact Manager**](https://github.com/nataliagilles/ContactManagerSpecialties) — Sistema de gerenciamento de contatos desenvolvido em Java, com cadastro, busca, listagem ordenada e persistência em arquivo.
+- [**FinanceControlAPI**](https://github.com/nataliagilles/FinanceControlAPI) — API REST para controle financeiro pessoal. Desenvolvida com Spring Boot 3, Spring Data JPA, MariaDB, Lombok e Swagger. Permite cadastrar receitas/despesas, categorizar transações, aplicar filtros (por período, categoria, tipo) e gerar resumo mensal.
   
 *(Em breve mais projetos serão adicionados!)*
 
@@ -41,7 +41,7 @@ Aqui estão alguns dos meus projetos que mostram minha evolução:
 Estou aberta a conexões, dicas de estudo e oportunidades. Você pode me encontrar aqui:
 
 - LinkedIn: https://www.linkedin.com/in/nataliagilles
-- E-mail: nataliarodriguesacessorias@gmail.com
+- E-mail: nataliarodriguesgilles@gmail.com
 
 ---
 
