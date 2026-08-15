@@ -56,21 +56,23 @@
 ## 📌 Projetos
 
 ### FinanceControlAPI
-API REST desenvolvida em Java e Spring Boot para gerenciamento e controle financeiro.
-**Tecnologias:** Java • Spring Boot • MySQL • REST API
-🔗 [Repositório](https://github.com/nataliagilles/FinanceControlAPI)
+API REST desenvolvida em Java e Spring Boot para gerenciamento e controle financeiro.<br>
+**Tecnologias:** Java • Spring Boot • MySQL • REST API<br>
+**🔗 Repositório:** [GitHub](https://github.com/nataliagilles/FinanceControlAPI)
+
 
 
 ### ContactManagerSpecialties
-Projeto desenvolvido para gerenciamento de contatos e especialidades, aplicando conceitos de desenvolvimento back-end e organização de dados.
-**Tecnologias:** Java • Spring Boot • MySQL
-🔗 [Repositório](https://github.com/nataliagilles/ContactManagerSpecialties)
+Projeto desenvolvido para gerenciamento de contatos e especialidades, aplicando conceitos de desenvolvimento back-end e organização de dados.<br>
+**Tecnologias:** Java • Spring Boot • MySQL<br>
+**🔗 Repositório:** [GitHub](https://github.com/nataliagilles/ContactManagerSpecialties)
+
 
 
 ### EntreCapas
-Protótipo desenvolvido no Figma com foco em interface e experiência do usuário.
-**Tecnologias:** Figma • UX/UI
-🔗 [Repositório](https://github.com/nataliagilles/entrecapas)
+Protótipo desenvolvido no Figma com foco em interface e experiência do usuário.<br>
+**Tecnologias:** Figma • UX/UI<br>
+**🔗 Repositório:** [GitHub](https://github.com/nataliagilles/entrecapas)
 
 ---
 
