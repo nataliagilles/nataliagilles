@@ -1,10 +1,10 @@
 # Olá, eu sou a Natalia Gilles! 👋
 ### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas no IFSP - São Carlos**
-💻 Atualmente estudando e desenvolvendo projetos com **Java, Spring Boot, SQL, JavaScript, HTML e CSS**
-🚀 Interessada em **desenvolvimento de software, APIs, banco de dados e UX/UI**
-📚 Sempre buscando transformar o que aprendo em projetos práticos.
+- Estudante de **Análise e Desenvolvimento de Sistemas no IFSP - São Carlos**
+- Atualmente estudando e desenvolvendo projetos
+- 
+📚 **Sempre buscando transformar o que aprendo em projetos práticos**
 
 ---
 
@@ -58,28 +58,28 @@
 
 ## 📚 Estudos e outros projetos
 
-- 🟠 **Java:** [estudos-java](https://github.com/nataliagilles/estudos-java)
-- 🐍 **Python:** [faculdade-ads/algoritmos/Python](https://github.com/nataliagilles/faculdade-ads/tree/main/algoritmos/Python)
-- 🌐 **Desenvolvimento Web:** [faculdade-ads/web/programação-web1](https://github.com/nataliagilles/faculdade-ads/tree/main/web/programa%C3%A7%C3%A3o-web1)
-- 🎓 **Repositório geral da faculdade:** [faculdade-ads](https://github.com/nataliagilles/faculdade-ads)
-- ✅ **Código de qualidade:** [quality-code](https://github.com/nataliagilles/quality-code)
-- 📱 **MidiaKit:** [midiakit](https://github.com/nataliagilles/midiakit)
+-  **Java:** [estudos-java](https://github.com/nataliagilles/estudos-java)
+-  **Python:** [faculdade-ads/algoritmos/Python](https://github.com/nataliagilles/faculdade-ads/tree/main/algoritmos/Python)
+-  **Desenvolvimento Web:** [faculdade-ads/web/programação-web1](https://github.com/nataliagilles/faculdade-ads/tree/main/web/programa%C3%A7%C3%A3o-web1)
+-  **Repositório geral da faculdade:** [faculdade-ads](https://github.com/nataliagilles/faculdade-ads)
+-  **Código de qualidade:** [quality-code](https://github.com/nataliagilles/quality-code)
+-  **MidiaKit:** [midiakit](https://github.com/nataliagilles/midiakit)
 
 ---
 
 ## 📌 Projetos
 
-### 💰 FinanceControlAPI
+### FinanceControlAPI
 API REST desenvolvida em Java e Spring Boot para gerenciamento e controle financeiro.
 **Tecnologias:** Java • Spring Boot • MySQL • REST API
 🔗 [Repositório](https://github.com/nataliagilles/FinanceControlAPI)
 
-### 📇 ContactManagerSpecialties
+### ContactManagerSpecialties
 Projeto desenvolvido para gerenciamento de contatos e especialidades, aplicando conceitos de desenvolvimento back-end e organização de dados.
 **Tecnologias:** Java • Spring Boot • MySQL
 🔗 [Repositório](https://github.com/nataliagilles/ContactManagerSpecialties)
 
-### 🎨 EntreCapas
+### EntreCapas
 Protótipo desenvolvido no Figma com foco em interface e experiência do usuário.
 **Tecnologias:** Figma • UX/UI
 🔗 [Repositório](https://github.com/nataliagilles/entrecapas)
@@ -95,7 +95,7 @@ Protótipo desenvolvido no Figma com foco em interface e experiência do usuári
 
 ---
 
-## 🌱 Atualmente estudando
+## Atualmente estudando
 * Java e Programação Orientada a Objetos
 * Spring Boot e desenvolvimento de APIs REST
 * Banco de Dados e SQL
