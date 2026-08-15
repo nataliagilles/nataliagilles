@@ -39,10 +39,10 @@
 
 ## 📁 Repositórios em destaque
 
--  **Estudos Java:** [estudos-java]("https://github.com/nataliagilles/estudos-java")
--  **API Financeira Java:** [FinanceControl]("https://github.com/nataliagilles/FinanceControlAPI")
--  **API Contatos Java:** [ContactManager]("https://github.com/nataliagilles/ContactManagerSpecialties")
--  **Protótipo Figma:** [EntreCapas]("https://github.com/nataliagilles/entrecapas")
+-  **Estudos Java:** [estudos-java](https://github.com/nataliagilles/estudos-java)
+-  **API Financeira Java:** [FinanceControl](https://github.com/nataliagilles/FinanceControlAPI)
+-  **API Contatos Java:** [ContactManager](https://github.com/nataliagilles/ContactManagerSpecialties)
+-  **Protótipo Figma:** [EntreCapas](https://github.com/nataliagilles/entrecapas)
 
 ## 📚 Estudos e outros projetos
 
