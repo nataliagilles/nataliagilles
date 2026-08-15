@@ -1,9 +1,7 @@
 # Olá, eu sou a Natalia Gilles! 👋
-### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
-
 - Estudante de **Análise e Desenvolvimento de Sistemas no IFSP - São Carlos**
 - Atualmente estudando e desenvolvendo projetos
-- 
+
 📚 **Sempre buscando transformar o que aprendo em projetos práticos**
 
 ---
@@ -38,10 +36,10 @@
 ---
 
 ## 📁 Repositórios em destaque
-
--  **Estudos Java:** [estudos-java](https://github.com/nataliagilles/estudos-java)
 -  **API Financeira Java:** [FinanceControl](https://github.com/nataliagilles/FinanceControlAPI)
 -  **API Contatos Java:** [ContactManager](https://github.com/nataliagilles/ContactManagerSpecialties)
+-  **Estudos Java:** [estudos-java](https://github.com/nataliagilles/estudos-java)
+-  **Estudos C:** [estudos-c](https://github.com/nataliagilles/faculdade-ads/tree/main/algoritmos/C)
 -  **Protótipo Figma:** [EntreCapas](https://github.com/nataliagilles/entrecapas)
 
 ## 📚 Estudos e outros projetos
@@ -62,10 +60,12 @@ API REST desenvolvida em Java e Spring Boot para gerenciamento e controle financ
 **Tecnologias:** Java • Spring Boot • MySQL • REST API
 🔗 [Repositório](https://github.com/nataliagilles/FinanceControlAPI)
 
+
 ### ContactManagerSpecialties
 Projeto desenvolvido para gerenciamento de contatos e especialidades, aplicando conceitos de desenvolvimento back-end e organização de dados.
 **Tecnologias:** Java • Spring Boot • MySQL
 🔗 [Repositório](https://github.com/nataliagilles/ContactManagerSpecialties)
+
 
 ### EntreCapas
 Protótipo desenvolvido no Figma com foco em interface e experiência do usuário.
