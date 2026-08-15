@@ -39,22 +39,10 @@
 
 ## 📁 Repositórios em destaque
 
-<div align="center">
-
-<a href="https://github.com/nataliagilles/estudos-java">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliagilles&repo=estudos-java&theme=tokyonight" />
-</a>
-<a href="https://github.com/nataliagilles/FinanceControlAPI">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliagilles&repo=FinanceControlAPI&theme=tokyonight" />
-</a>
-<a href="https://github.com/nataliagilles/ContactManagerSpecialties">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliagilles&repo=ContactManagerSpecialties&theme=tokyonight" />
-</a>
-<a href="https://github.com/nataliagilles/entrecapas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=nataliagilles&repo=entrecapas&theme=tokyonight" />
-</a>
-
-</div>
+-  **Estudos Java:** [estudos-java]("https://github.com/nataliagilles/estudos-java")
+-  **API Financeira Java:** [FinanceControl]("https://github.com/nataliagilles/FinanceControlAPI")
+-  **API Contatos Java:** [ContactManager]("https://github.com/nataliagilles/ContactManagerSpecialties")
+-  **Protótipo Figma:** [EntreCapas]("https://github.com/nataliagilles/entrecapas")
 
 ## 📚 Estudos e outros projetos
 
@@ -83,15 +71,6 @@ Projeto desenvolvido para gerenciamento de contatos e especialidades, aplicando 
 Protótipo desenvolvido no Figma com foco em interface e experiência do usuário.
 **Tecnologias:** Figma • UX/UI
 🔗 [Repositório](https://github.com/nataliagilles/entrecapas)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliagilles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliagilles&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 ---
 
